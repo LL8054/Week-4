@@ -40,5 +40,5 @@ best <- function(state, outcome) {
         hospital_name <- sort.final[1,2]
         hospital_name
         
-}
+} 
 
