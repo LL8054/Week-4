@@ -1,4 +1,4 @@
-## Ranks hospitals in the requested state according to the inputted outcome
+## Ranks hospitals in the requested state according to the inputted outcome 
 ## and returns the requested rank.  
 
 rankhospital <- function(state, outcome, num = "best") {
